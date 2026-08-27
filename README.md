@@ -1,16 +1,18 @@
 # Muhammad Sayyah Ghunaim
 
-<h3 align="center">Backend Developer · Laravel & NestJS · APIs · Scalable Systems</h3>
+<h3 align="center">Software Engineer · Backend Developer · AI Student</h3>
 
 <p align="center">
   <a href="https://github.com/Muhammad-S-Gh">
-    <img src="https://img.shields.io/badge/GitHub-Muhammad--S--Gh-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GITHUB-Muhammad--S--Gh-111111?style=for-the-badge&logo=github&logoColor=D9D9D9&labelColor=6B705C" alt="GitHub">
   </a>
+  <br><br>
   <a href="https://www.linkedin.com/in/muhammad-sayyah-ghunaim-1b5a03353">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=8A8F62" alt="LinkedIn">
   </a>
+  <br><br>
   <a href="https://msg-webpage.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome" alt="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=F4D35E&labelColor=BFC0C0" alt="Portfolio">
   </a>
 </p>
 
