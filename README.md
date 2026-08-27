@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://github.com/Muhammad-S-Gh">
-    <img src="https://img.shields.io/badge/GITHUB-Muhammad--S--Gh-111111?style=for-the-badge&logo=github&logoColor=D9D9D9&labelColor=6B705C" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Muhammad--S--Gh-1C1C1C?style=for-the-badge&logo=github&logoColor=E6E6E6&labelColor=6B705C" alt="GitHub">
   </a>
   <br><br>
   <a href="https://www.linkedin.com/in/muhammad-sayyah-ghunaim-1b5a03353">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=8A8F62" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2B2B2B?style=for-the-badge&logo=linkedin&logoColor=F5F5F5&labelColor=7A7F4F" alt="LinkedIn">
   </a>
   <br><br>
   <a href="https://msg-webpage.onrender.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=F4D35E&labelColor=BFC0C0" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-151515?style=for-the-badge&logo=googlechrome&logoColor=F5D76E&labelColor=B8B8B8" alt="Portfolio">
   </a>
 </p>
 
